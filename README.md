@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cindy Ye
 - 👀 I’m interested in Product Management
-- 🌱 I’m currently learning HTML/CSS
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me cindyye@umich.edu
 
 <!---
